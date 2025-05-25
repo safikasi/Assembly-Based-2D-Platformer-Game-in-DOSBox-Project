@@ -32,16 +32,16 @@ Basic knowledge of Assembly and DOS emulation
 🛠️ Installation & Build Instructions
 
 Clone this repository:
-git clone https://github.com/your-username/assembly-platformer.git   
+git clone https://github.com/safikasi/-Assembly-Based-2D-Platformer-Game-in-DOSBox/
 
 Navigate to the project directory:
-cd assembly-platformer  
+cd assembly-code  
 
 Assemble the code:
 nasm -f bin game.asm -o game.com  
 
 Launch DOSBox and mount the project directory:
-mount c path\to\assembly-platformer  
+mount c path\to\assembly-code
 c:  
 
 Run the game:
