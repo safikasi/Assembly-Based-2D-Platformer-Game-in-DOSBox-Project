@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Assembly-Based 2D Platformer Game (DOSBox)</title>
 </head>
 <body>
 
